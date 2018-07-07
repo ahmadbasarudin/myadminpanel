@@ -392,8 +392,8 @@
     overflow-x: hidden;
 }
 
-.page-head .row>h1{
-    margin-top: 0px;
+.page-wrapper .page-head .row>h1{
+    margin-top: 5px;
     margin-bottom: 0px;
 }
 
