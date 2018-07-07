@@ -1,0 +1,101 @@
+/*-----------------------------chiller-theme-------------------------------------------------*/
+/*********************************
+ DARK SKIN STYLE
+*********************************/
+.skin-dark .sidebar-wrapper {
+    background: #1d1d1d;
+}
+
+
+
+/*
+BEGIN BUTTON CLOSE TOGGLE
+*/
+.page-wrapper.skin-dark.toggled #close-sidebar {
+    color: #bdbdbd;
+}
+
+.page-wrapper.skin-dark.toggled #close-sidebar:hover {
+    color: #ffffff;
+}
+.skin-dark #show-sidebar {
+    color: #bdbdbd;
+}
+.skin-dark #show-sidebar:hover {
+    color: #ffffff;
+}
+
+/*
+END BUTTON CLOSE TOGGLE
+*/
+.skin-dark .sidebar-wrapper .sidebar-header {
+    border-top: 1px solid #2b2b2b;
+}
+
+
+.skin-dark .sidebar-wrapper .sidebar-header .user-info .user-role,
+.skin-dark .sidebar-wrapper .sidebar-header .user-info .user-status,
+.skin-dark .sidebar-wrapper .sidebar-brand>a,
+.skin-dark .sidebar-wrapper .sidebar-menu ul li a,
+.skin-dark .sidebar-footer>a {
+    color: #bdbdbd;
+}
+
+.skin-dark .sidebar-wrapper .sidebar-menu ul li:hover>a,
+.skin-dark .sidebar-wrapper .sidebar-menu .sidebar-dropdown.active>a,
+.skin-dark .sidebar-wrapper .sidebar-header .user-info,
+.skin-dark .sidebar-wrapper .sidebar-brand>a:hover,
+.skin-dark .sidebar-footer>a:hover i {
+    color: #ffffff;
+}
+
+.page-wrapper.chiller-theme.toggled #toggle-sidebar div {
+    background: #bdbdbd;
+}
+
+.page-wrapper.chiller-theme.toggled #toggle-sidebar:hover div {
+    background: #ffffff;
+}
+
+.skin-dark .sidebar-wrapper ul li:hover a i,
+.skin-dark .sidebar-wrapper .sidebar-dropdown .sidebar-submenu li a:hover:before,
+.skin-dark .sidebar-wrapper .sidebar-menu .sidebar-dropdown.active a i {
+    color: #ffffff;
+}
+
+.skin-dark .sidebar-wrapper .sidebar-menu ul li a i,
+.skin-dark .sidebar-wrapper .sidebar-menu .sidebar-dropdown div{
+    background: #2b2b2b;
+}
+
+.skin-dark .sidebar-wrapper .sidebar-menu .header-menu span {
+    color: #6c7b88;
+}
+
+.skin-dark .sidebar-wrapper .sidebar-menu .badge {
+    background: #484848;
+}
+
+.skin-dark .sidebar-footer {
+    background: #2b2b2b;
+    box-shadow: 0px -1px 5px #131212;
+    border-top: 1px solid #3a3a3a;
+}
+
+.skin-dark .sidebar-footer>a:first-child {
+    border-left: none;
+}
+
+.skin-dark .sidebar-footer>a:last-child {
+    border-right: none;
+}
+
+.skin-dark .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar,
+.skin-dark .mCSB_scrollTools .mCSB_dragger.mCSB_dragger_onDrag .mCSB_dragger_bar,
+.skin-dark .mCSB_scrollTools .mCSB_dragger:hover .mCSB_dragger_bar {
+    background: #636363;
+}
+
+.skin-dark .mCSB_scrollTools .mCSB_draggerRail {
+    background-color: transparent;
+}
